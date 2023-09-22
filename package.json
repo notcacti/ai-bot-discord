@@ -1,0 +1,19 @@
+{
+  "name": "ai-discord-bot",
+  "version": "1.0.0",
+  "description": "a discord bot that is connected to chatgpt to provide a clyde like feeling",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "notcacti",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "oceanic.js": "^1.8.0"
+  }
+}
